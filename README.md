@@ -19,6 +19,7 @@ InfinityTalk - web приложение, направленное на изуч�
 
 ### Команда проекта:
 - <a href="https://github.com/SaydAliUsmanov">Usmanov Said</a>
+- <a href="https://github.com/alimkhansalamov">Salamov Alimhan</a>
 - <a href="https://github.com/AliUmarov">Umarov Ali</a>
 - <a href="https://github.com/shabaevm">Shabaev Magomed</a>
 - <a href="https://github.com/EltimirovJo">Eltimirov Djambulat</a>
