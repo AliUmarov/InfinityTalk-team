@@ -18,7 +18,7 @@ InfinityTalk - web приложение, направленное на изуч�
 - MongoDB, mongoose
 
 ### Команда проекта:
-- <a href="https://github.com/SaydAliUsmanov">Usmanov Said</a>
+- <a href="https://github.com/SaydAliUsmanov">Usmanov Sayd-Ali</a>
 - <a href="https://github.com/alimkhansalamov">Salamov Alimhan</a>
 - <a href="https://github.com/AliUmarov">Umarov Ali</a>
 - <a href="https://github.com/shabaevm">Shabaev Magomed</a>
