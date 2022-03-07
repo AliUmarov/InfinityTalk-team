@@ -2,8 +2,15 @@
   text-align: center;
 }
 
-.miniLogo{
+.logo{
   width: 300px;
+  height: 250px;
+  margin: 0 auto;
+}
+
+.miniLogo{
+  width: 100%;
+  height: 100%;
 }
 
 h3{
