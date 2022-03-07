@@ -31,7 +31,7 @@ const SignInPage = () => {
 
   return (
     <div className={styles.main}>
-      <div>
+      <div className={styles.logo}>
         <img className={styles.miniLogo} src={miniLogo} />
       </div>
       <h3>SIGN IN</h3>
